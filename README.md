@@ -1,7 +1,6 @@
 ### 👨‍💻About Me:
 
-A passionate Computer Engineering student interested in Machine learning, Large Language Models, Cloud, and Python Development.
-
+A passionate Computer Engineering student interested in Machine learning, Deep Learning and Medical Segmenatation.
 - 🔭 I'm currently working on Various Machine Learning Projects
 - 🌱 I'm currently exploring Various Deep learning and NLP Studies
 - 💬 Ask me about Machine learning, Deep Learning
@@ -29,3 +28,9 @@ A passionate Computer Engineering student interested in Machine learning, Large 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+## 🎯 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushal-11&show_icons=true&theme=dark)
+
+## 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-11&layout=compact&theme=dark)
